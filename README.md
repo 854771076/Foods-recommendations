@@ -22,19 +22,19 @@ http://127.0.0.1:8000/admin
 
 #### 2.1 总架构图
 
-![系统架构](doc\系统架构.png)
+![系统架构](doc/系统架构.png)
 
 #### 2.2 数仓架构
 
-![系统架构](doc\数仓架构.png)
+![系统架构](doc/数仓架构.png)
 
 #### 2.3 功能设计
 
-![系统架构](doc\系统功能设计.png)
+![系统架构](doc/系统功能设计.png)
 
 #### 2.4 ER图
 
-![系统架构](doc\ER图.png)
+![系统架构](doc/ER图.png)
 
 ### 三、项目部署
 
@@ -74,11 +74,11 @@ http://127.0.0.1:8000/admin
 
 * 修改Foods-recommendations\spider\FoodsSpider\FoodsSpider\settings.py的mysql连接配置
 
-* ![image-20240401174853904](img\1.png)
+* ![image-20240401174853904](img/1.png)
 
 * 执行Foods-recommendations\spider\FoodsSpider\FoodsSpider\spider\run.py启动scrapy
 
-* ![image-20240401174853904](img\2.png)
+* ![image-20240401174853904](img/2.png)
 
   
 
